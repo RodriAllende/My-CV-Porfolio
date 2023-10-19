@@ -1,3 +1,38 @@
-body{
-background-image: url(./images/fondocv.jpg);
-border: solid 30px yellow;}
+
+  
+ #fondodev{
+    margin-left: -116px;
+margin-right: -300px;
+    width: 100vw;
+  height: 100vh;
+ }
+ 
+
+ #columna2{
+    background-color: red;
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+ }
+
+ #barranav{
+    margin-left: 500px;
+    gap: 40px;
+    font-size: 20px;
+    font-family: 'Bangers', cursive;
+
+    
+ }
+
+ .navbar-brand{
+    margin-left: 20px;
+    width: 154px;
+    height: 60px;
+    font-size: 20px;
+    font-family: 'Bangers', cursive;
+
+ }
