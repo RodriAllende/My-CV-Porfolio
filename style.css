@@ -25,6 +25,7 @@
     gap: 40px;
     font-size: 20px;
     font-family: 'Bangers', cursive;
+    color: white;
 
     
  }
@@ -35,9 +36,21 @@
     height: 60px;
     font-size: 20px;
     font-family: 'Bangers', cursive;
+    color: white;
 
  }
 
  #nombre{
     font-size: 60px;
  }
+
+ 
+a.nav-link{
+   color: white;
+}
+  button.navbar-brand{
+   background-color: transparent;
+   color:white;
+   border: solid 1px white;
+   border-radius: 5px;
+  }
