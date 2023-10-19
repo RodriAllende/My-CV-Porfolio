@@ -1,23 +1,24 @@
-
-  
- #fondodev{
-    margin-left: -116px;
-margin-right: -300px;
-    width: 100vw;
-  height: 100vh;
- }
- 
-
- #columna2{
-    background-color: red;
-    font-family: 'Bangers', cursive;
-    font-size: 45px;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+.texto-flotante {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Bangers', cursive;
+    
+}
+  
 
- }
+#controlimg{ 
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+
+
 
  #barranav{
     margin-left: 500px;
@@ -35,4 +36,8 @@ margin-right: -300px;
     font-size: 20px;
     font-family: 'Bangers', cursive;
 
+ }
+
+ #nombre{
+    font-size: 60px;
  }
