@@ -1,0 +1,14 @@
+.rounded-container {
+    border-radius: 50%;
+    background-color: #3498db; /* Cambia el color de fondo según tus preferencias */
+    padding: 10px;
+    text-align: center;
+    width: 100px; /* Ajusta el ancho del contenedor según tus necesidades */
+}
+
+.rounded-container img {
+    width: 50px; /* Ajusta el ancho de las imágenes según tus necesidades */
+    height: 50px; /* Ajusta la altura de las imágenes según tus necesidades */
+    border-radius: 50%; /* Esto hace que las imágenes también sean redondeadas */
+    margin: 5px; /* Espacio entre las imágenes */
+}
