@@ -1,0 +1,62 @@
+
+
+#barranav{
+  
+    gap: 40px;
+    font-size: 20px;
+    color: white;
+
+    margin-right: 40px;
+
+    
+ }
+
+
+
+a.nav-link{
+    color: white;
+ }
+button.navbar-brand{
+    background-color: transparent;
+    color:white;
+    border: solid 1px white;
+    border-radius: 5px;
+   }
+
+
+body{
+    background-image: url(../images/iStock-959769248.jpg);
+   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 15px;
+ }
+ 
+
+ footer{
+    background-color: black;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    color: white;
+ 
+ }
+ 
+ section.hardskill{
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+    color: white;
+ }
+
+ section.softskill{
+    display: flex;
+    margin-left: 800px;
+    margin-top: -300px;
+    color: white;
+
+ }
+
+ img.bot{
+    height: 64px;
+    white-space: 64px;
+ }
