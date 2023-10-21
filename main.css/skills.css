@@ -38,11 +38,11 @@ footer {
 }
 
 #HARD {
+   font-family: 'Bangers', cursive;
    color: white;
-   font-size: 30px;
+   font-size: 40px;
    margin-top: 100px;
    margin-left: 200px;
-   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 svg.logos {
@@ -67,15 +67,14 @@ margin-top: -450px;
 
 #softskill{
    margin-left: 800px;
-   margin-top: -495px;
+   margin-top: -473px;
  
 }
 
 #titulosoft{
-
-   font-size: 30PX;
+   font-family: 'Bangers', cursive;
+   font-size: 40PX;
    color: white;
-   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 margin-bottom: 20px;
 margin-right: 800px;
 }
