@@ -125,3 +125,11 @@ color: white;
    font-size: 60px;
    margin: 10px;
  }
+
+ h2.seccion-titulo{
+  color: white;
+  font-family: 'Bangers', cursive;
+  margin-left: 550px;
+  margin-top: 50px;
+ font-size: 30px;
+ }

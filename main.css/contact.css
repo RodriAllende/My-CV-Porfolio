@@ -1,0 +1,58 @@
+#barranav {
+    gap: 40px;
+    font-size: 20px;
+    color: white;
+    margin-right: 40px;
+ 
+ }
+ 
+ a.nav-link {
+    color: white;
+ }
+ 
+ button.navbar-brand {
+    background-color: transparent;
+    color: white;
+    border: solid 1px white;
+    border-radius: 5px;
+ }
+ 
+ 
+ body {
+    background-image: url(../images/iStock-959769248.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 15px;
+ }
+ 
+ footer {
+    background-color: black;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    color: white;
+ }
+ 
+ h1 a{
+    font-size: 30px;
+    color: white;
+    font-family: 'Bangers', cursive;
+ 
+ }
+
+ #download{
+margin-left: 150px;     
+margin-top: 50px;
+
+
+}
+h1.contact{
+    font-size: 60px;
+    color: white;
+    font-family: 'Bangers', cursive;
+    margin-left: 355px;
+    margin-top: 100px;
+} 
+label{
+    color: white;
+}
