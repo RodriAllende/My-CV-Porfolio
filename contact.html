@@ -78,7 +78,7 @@
     <div class="row">
         <div class="col-md-6 offset-md-3">
             <h1>Formulario de Contacto</h1>
-            <form action="tu_archivo_de_procesamiento.php" method="post">
+            <form action="enviar.php" method="post">
                 <div class="form-group">
                     <label for="nombre">Nombre:</label>
                     <input type="text" class="form-control" id="nombre" name="nombre" required>
@@ -91,14 +91,12 @@
                     <label for="mensaje">Mensaje:</label>
                     <textarea class="form-control" id="mensaje" name="mensaje" rows="4" required></textarea>
                 </div>
+                <input type="hidden" name="action" value="enviar.php">
                 <button type="submit" class="btn btn-primary">Enviar</button>
             </form>
         </div>
     </div>
 </div>
-
-
-
 
 
 
