@@ -63,3 +63,16 @@ button.navbar-toggler{
    color: white;
  
 }
+
+@media (min-width: 768px) {
+   /* Your CSS goes here */
+ }
+ 
+ @media (min-width: 992px) {
+   /* Your CSS goes here */
+ }
+ 
+ @media (min-width: 1200px) {
+   /* Your CSS goes here */
+ }
+ 

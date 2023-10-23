@@ -49,6 +49,7 @@ svg.logos {
    width: 84px;
    height: 84px;
    margin-bottom: 20px;
+   max-width: 100px;
 
 }
 #firstlist {
@@ -103,4 +104,18 @@ button.navbar-toggler{
 
    color: white;
  
-}
+} 
+
+
+.column-container {
+   flex-direction: column;
+   margin-left: 100px;
+   margin-top: 50px;
+   gap: 300px;
+ }
+ .column{
+   border: solid 3px red;
+   display: flex;
+   gap: 50px;
+  
+ }
