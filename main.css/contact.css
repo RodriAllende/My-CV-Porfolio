@@ -122,3 +122,9 @@ border:white 5px solid;
    background-color: #007bff; /* Cambia el color de fondo al pasar el mouse */
    color: #fff; /* Cambia el color del texto al pasar el mouse */
 }
+
+button.navbar-toggler{
+
+   color: white;
+ 
+}
