@@ -29,10 +29,13 @@ class Education extends Component {
               </div>
               <div className="heading-text-div">
                 <h1 className="heading-text" style={{ color: theme.text }}>
-                  Education
+                  Educación
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Basic Qualification and Certifcations
+                  Actualmente cursando la Tecnicatura de Desarrollo Web y
+                  aplicaciones digitales , con fecha de finalización a Fines de
+                  2024. En paralelo cursando el ODIN PROJECT aprendiendo en
+                  profundidad React y Node JS.
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>
