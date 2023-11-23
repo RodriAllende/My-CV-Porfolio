@@ -244,50 +244,12 @@ const experience = {
   title: "Experiencia",
   subtitle: "Mis trabajos previos",
   description:
-    "  A continuación describo mis anteriores experiencias laborales a lo largo",
+    "  A continuación describo mis anteriores experiencias laborales a lo largo de mi vida",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       work: true,
-      experiences: [
-        {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
-        },
-        {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
-        },
-      ],
-    },
-    {
-      title: "Trabajos",
       experiences: [
         {
           title: "Manager General",
@@ -313,14 +275,37 @@ const experience = {
         },
         {
           title: "Chef de Partie",
-          company: "Intel Indexer LLC",
+          company: "Atlantic Group",
           company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
+            "https://atlanticgroup.com.au/venues/sophia/?gad_source=1&gclid=CjwKCAiAjfyqBhAsEiwA-UdzJDjZUV4FIbHqmqiRUsVqxK5xQMcNEkTqhuUap-CUHNez9GkW1iZJRxoCDyIQAvD_BwE ",
+          logo_path: "alogo.jpg",
+          duration: "Agosto 2013 - Agosto 2017",
+          location: "Australia",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+            "Trabajar rápidamente con diferentes equipos , cumpliendo objetivos, manteniendo siempre los estándares de calidad y presentación",
+          color: "#0071C5",
+        },
+        {
+          title: "Ejecutivo de Ventas",
+          company: "Lóreal",
+          company_url: "https://www.loreal.com/es-ar/argentina/",
+          logo_path: "loreallogo.png",
+          duration: "Octubre 2011 - Junio 2013",
+          location: "Córdoba, Argentina",
+          description:
+            " Capacitación del personal en técnicas de venta y desarrollo de imagen empresarial.	Desarrollo de salones como punto de venta",
+
+          color: "#0071C5",
+        },
+        {
+          title: "Asesor Comercial",
+          company: "Kadicard",
+          company_url: "",
+          logo_path: "brand.gif",
+          duration: "Octubre 2007 - Julio 2009",
+          location: "Córdoba, Argentina",
+          description:
+            "Captacion de nuevos clientes y atención al cliente en sucursal",
           color: "#0071C5",
         },
       ],
@@ -330,9 +315,9 @@ const experience = {
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
+  title: "Projectos",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "En esta sección encontras mi proyectos desarrollados en el instituto , los hechos hasta el momento en ODIN PROYECT y algunos freelance",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -344,48 +329,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-  ],
+  data: [],
 };
 
 // Contact Page
