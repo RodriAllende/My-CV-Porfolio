@@ -16,7 +16,8 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Rodrigo Allende ",
-  nickname: "Desarrollador Full Stack Junior",
+
+  nickname: "Full Stack Junior",
   subTitle:
     "Una persona apasionada que siempre busca trabajar en productos de principio a fin, desarrollando aplicaciones web sostenibles y escalables en el tiempo para generar un impacto significativo",
 
