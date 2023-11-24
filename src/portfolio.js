@@ -317,7 +317,7 @@ const experience = {
 const projectsHeader = {
   title: "Projectos",
   description:
-    "En esta sección encontras mi proyectos desarrollados en el Instituto , los hechos hasta el momento en ODIN PROYECT y algunos freelance",
+    "En esta sección encontras mi proyectos desarrollados en el Instituto , los hechos hasta el momento en ODIN PROYECT y algunos freelance.En Github están los links para Live preview de los sitios.",
   avatar_image_path: "projects_image.svg",
 };
 
