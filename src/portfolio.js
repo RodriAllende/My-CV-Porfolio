@@ -204,7 +204,7 @@ const degrees = {
 
       duration: "2016 -2017",
       descriptions: [
-        "⚡ Curso de un año de duración en introduccción al Comercio Internacional",
+        "⚡ Curso de un año de duración en introduccción al Comercio Internacional , cursado en Brisbane , Australia",
       ],
       website_link:
         "https://www.ilsc.com/hubfs/pdf/program-flyers/greystone-college/australia/BSB41115-certificate-IV-international-trade.pdf",
@@ -317,7 +317,7 @@ const experience = {
 const projectsHeader = {
   title: "Projectos",
   description:
-    "En esta sección encontras mi proyectos desarrollados en el instituto , los hechos hasta el momento en ODIN PROYECT y algunos freelance",
+    "En esta sección encontras mi proyectos desarrollados en el Instituto , los hechos hasta el momento en ODIN PROYECT y algunos freelance",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -334,35 +334,7 @@ const publications = {
 
 // Contact Page
 const contactPageData = {
-  contactSection: {
-    title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
-    description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
-  },
-  blogSection: {
-    title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
-  },
-  addressSection: {
-    title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
-    avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
-  },
-  phoneSection: {
-    title: "",
-    subtitle: "",
-  },
+  contactSection: {},
 };
 
 export {
